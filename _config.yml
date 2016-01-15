@@ -1,0 +1,28 @@
+name: HD fotography
+favicon: null
+layout_spectrum: 0.9311754894442856
+typography_spectrum: 0.316656609531492
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.41222321474924684
+  lightness: 0.5146670241374522
+  saturation: 0.5646663235966116
+  rhythmicContrast: 0.02016852959059179
+purpose: []
